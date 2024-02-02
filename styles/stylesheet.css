@@ -38,3 +38,9 @@ ul {
 li {
     margin-bottom: 10px;
 }
+
+#d {
+    text-align: center;
+    position: relative;
+    font-size: 70px;
+  }
