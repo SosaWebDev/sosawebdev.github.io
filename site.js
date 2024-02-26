@@ -20,3 +20,6 @@ function getDateTime() {
     }
   }
   getDateTime()
+
+
+  localStorage.setItem("It's a secret to everybody.", "Have a great day.");
